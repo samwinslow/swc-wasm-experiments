@@ -1,0 +1,9 @@
+{
+  "name": "swc-wasm-experiments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/samwinslow/swc-wasm-experiments.git",
+  "author": "Sam Winslow <sammywinslow@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
